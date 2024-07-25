@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+/*
+Description: This script is the camera controller that centers on the players character and follows them around the level.
+*/
+
+using UnityEngine;
 using System.Collections;
 
 
