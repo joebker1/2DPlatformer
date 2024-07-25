@@ -1,4 +1,8 @@
-﻿using System.Collections;
+/*
+Description: This script controls the heart sprites, removing hearts when the player takes damage from a hazard, controlled in the CharacterScript.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
