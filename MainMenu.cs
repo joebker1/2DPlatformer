@@ -1,4 +1,8 @@
-﻿using System.Collections;
+/*
+Description: This script controls the Main Menu, allowing the player to choose to play the game, or quit the game.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
