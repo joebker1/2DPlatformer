@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*
+Description: This script starts a countdown timer to put the player on a timer to complete the level, or fail it and get a game over.
+This allows the developer to set the time needed to complete the level in Unity.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
