@@ -1,4 +1,8 @@
-﻿using System.Collections;
+/*
+Description: This script connects to the quit button, allowing the player to quit the game when pressing the button.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
