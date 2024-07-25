@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*
+Description: This script basically the GameManager script. It controls the player and the Game Systems like the win and lose screen, respwans, life counter and game over.
+I fix this problem in later scripts.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
