@@ -1,6 +1,7 @@
 /*
 Description: This script basically the GameManager script. It controls the player and the Game Systems like the win and lose screen, respwans, life counter and game over.
-I fix this problem in later scripts.
+I fix this problem in later scripts. This script allows the player to run, jump, and collect coins using the arrow keys and space bar. When the player loses
+all three lives, the player will end the game, and if the player gets to the final checkpoint, the player will recieve the win screen.
 */
 
 using System.Collections;
