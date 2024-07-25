@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*
+Description: This script controls the enemy hazards that roam back and forth at various points on the level. They travel between two points set by the developer
+and if the character comes into contact with the enemy NPCs, the player will lose a life and respawn at the nearest checkpoint.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
