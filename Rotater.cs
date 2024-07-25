@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+/*
+Description: This script rotates the coins to entice the player.
+*/
+
+using UnityEngine;
 using System.Collections;
 
 
