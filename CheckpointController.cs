@@ -1,4 +1,8 @@
-﻿using System.Collections;
+/*
+Description: This script updates whether or not the player has reached a checkpoint.
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
